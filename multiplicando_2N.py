@@ -2,7 +2,7 @@
 
 # A função tem 2 parâmetros que são a,b números inteiros.
 
-# E o retorno dela vai ter outro inteiro, no caso o resultado da multiplicação.
+# E o retorno dela vai ser outro inteiro, no caso o resultado da multiplicação.
 
 def mult_two(a:int,b:int)->int:
     return a*b
