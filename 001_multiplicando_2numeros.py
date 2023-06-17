@@ -8,3 +8,10 @@ def mult_two(a:int,b:int)->int:
     return a*b
 
 assert mult_two(3, 2) == 6  # Aqui a função é testada com assert.
+
+#Ou seja, eu chamo ela já enviando os 2 números a serem múltiplicados.
+
+#Caso o resultado não seja correto, vai retorar um erro:
+#AssertionError
+
+#Sendo o resultado correto, nada vai aparecer na tela.
